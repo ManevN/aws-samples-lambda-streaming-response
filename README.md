@@ -1,2 +1,3 @@
-# aws-samples-lambda-streaming-response
+# Lambda streaming response
+
 Demonstrate streaming response usage.
